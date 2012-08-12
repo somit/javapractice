@@ -1,4 +1,4 @@
 javapractice
 ============
 
-DataStructure and Algos
+DataStructure and Algorithm Practice
